@@ -3,3 +3,6 @@ Gym
 Natacion
 Pintura
 Baile
+Temnis
+Videojuegos
+Piano
